@@ -1,0 +1,29 @@
+/* Styles */
+
+/* Odd Numbered Elements */
+
+.para {
+    background-color: #FF474C;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+/* Second Element */
+
+#first {
+    color: rgb(0, 0, 225);
+    font-size: 36px;
+}
+
+/* Third Element */
+
+.para .p2 {
+    font-size: 24px;
+}
+
+/* Fourth Element */
+
+#second {
+    background-color: hsl(130, 91%, 78%);
+    font-size: 24px;
+    font-weight: bold;
+}
